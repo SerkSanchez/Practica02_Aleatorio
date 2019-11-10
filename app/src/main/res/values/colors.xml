@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="switchOn">#D03FC521</color>
+    <color name="switchOff">#E9E0262C</color>
+
+    <color name="buttonGenerarGanador">#E21D4B</color>
+    <color name="buttonAddJugador">#E21D4B</color>
+    <color name="colorTextos">#FFFFFF</color>
+
+    <color name="colorBtn">#F0BA58</color>
+</resources>
